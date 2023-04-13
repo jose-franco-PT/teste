@@ -85,7 +85,7 @@ wget https://github.com/thingsboard/thingsboard-edge/releases/download/v3.4.3/tb
 		
 ### 3.5.1: Ir para a pasta onde está localizado o ficheiro anterior. No meu caso está "/home/pi"
 
-	<a href='https://postimg.cc/1fkWd29s' target='_blank'><img src='https://i.postimg.cc/x1CWXVhJ/1.png' border='0' alt='1'/></a>
+	[![1.png](https://i.postimg.cc/x1CWXVhJ/1.png)](https://postimg.cc/1fkWd29s)
 
 	3.5.2: Certificar que está na pasta do ficheiro (cd /home/pi) e executar:
 			sudo dpkg -i tb-edge-3.4.3.deb
